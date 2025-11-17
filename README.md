@@ -14,4 +14,9 @@ API AXIS adalah layanan backend yang dibangun menggunakan Node.js dan Express un
 ---
 
 ## 📦 Instalasi
-RUN.bat
+```bash
+npm install
+
+```
+lalu RUN.bat
+
